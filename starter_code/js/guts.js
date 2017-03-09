@@ -6,22 +6,22 @@
 function divide(x,y)
 {
 	//Write your code below this line
-	
+	return x / y ;
 }
 
 function multiply(x,y)
 {
-	
+	return x * y ;
 }
 
 function subtract(x,y)
 {
-	
+	return x - y ;
 }
 
 function add(x,y)
 {
-	
+	x + y ;
 }
 
 function power(x,y)
@@ -31,7 +31,7 @@ function power(x,y)
 
 function square_root(x)
 {
-	
+	return x
 }
 
 function logBase10(x)
